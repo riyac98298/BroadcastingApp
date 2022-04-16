@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893248305365",
+    "firebase_url": "https://broadcasting-7b349.firebaseio.com",
+    "project_id": "broadcasting-7b349",
+    "storage_bucket": "broadcasting-7b349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893248305365:android:89d5f64da8ce205a",
+        "android_client_info": {
+          "package_name": "com.example.riyac.broadcasting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893248305365-fp8b9k10du6ic64s6pa00gck5ihijijs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riyac.broadcasting",
+            "certificate_hash": "9cfc2f1bc724ae7dfb503c0909889e5949d0748c"
+          }
+        },
+        {
+          "client_id": "893248305365-i7g4umt61o99imn1t00h2s3ggo26o2aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFaHZbMjrr8KPZEi1kCWVSdPF35L8TEzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893248305365-i7g4umt61o99imn1t00h2s3ggo26o2aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
